@@ -14,7 +14,7 @@ setup(
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
-        install_requires=[pyodbc, numpy, pandas], # adicione outros pacotes que 
+        install_requires=['pyodbc', 'numpy', 'pandas'], # adicione outros pacotes que 
         # precisem ser instalados com o seu pacote. Ex: 'caer'
         
         keywords=['python', 'first package'],
