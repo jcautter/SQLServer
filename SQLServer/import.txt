@@ -1,0 +1,3 @@
+pip install github_com
+
+from github_com.jcautter import BigQuery
